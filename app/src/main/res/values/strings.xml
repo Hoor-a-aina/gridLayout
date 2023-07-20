@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">gridLayout</string>
+    <string name="todo">TODO</string>
+    <string name="TODO">TODO</string>
+    <string name="todO">TODO</string>
+    <string name="toDo">TODO</string>
+    <string name="tOdo">TODO</string>
+    <string name="Todo">TODO</string>
+    <string name="TOdo">TODO</string>
+    <string name="toDO">TODO</string>
+    <string name="ToDo">TODO</string>
+    <string name="tOdO">TODO</string>
+    <string name="todoO">TODO</string>
+    <string name="todoo">TODO</string>
+    <string name="toOdo">TODO</string>
+    <string name="toodo">TODO</string>
+    <string name="todooo">TODO</string>
+    <string name="todoOo">TODO</string>
+</resources>
